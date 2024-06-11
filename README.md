@@ -28,9 +28,9 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=rimanshupatel&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=rimanshupatel&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 
