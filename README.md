@@ -5,7 +5,7 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+rimanshuPatel+Github+Profile" alt="Welcome!"/></div>
 
 <p align="center">
-<img  src="https://komarev.com/ghpvc/?username=rimanshupatel&color=green">
+<img  src="https://komarev.com/ghpvc/?username=rimanshupatel&color=brightgreen">
 </p>
 
 <p align="center"> You have finally discovered my Github profile. <br>
