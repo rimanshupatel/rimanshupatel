@@ -4,14 +4,13 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+rimanshuPatel+Github+Profile" alt="Welcome!"/></div>
 
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=BhavyaKhurana&label=Profile%20Views&color=6&icon=0&pretty=true" />
-    </a>
-</div>
+<p align="center">
+<img  src="https://komarev.com/ghpvc/?username=rimanshupatel&color=green">
+</p>
+
 <p align="center"> You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/rimanshupatel/TheNewC0der-24/issues/new"><b>Here</b></a><br>
+Ask me anything <a href="https://github.com/rimanshupatel/rimanshupatel/issues/new"><b>Here</b></a><br>
 or <a href="mailto:rimanshupatel1@gmail.com" target='_blank'><b>Email</b></a> me</p>
 
 # 🏄‍♂️ Rimanshu patel
@@ -28,9 +27,9 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=rimanshupatel&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=rimanshupatel&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 
