@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello there, Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'></h2>
+<h2> Hello, I'm Rimanshu patel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'></h2>
 </div>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+rimanshuPatel+Github+Profile" alt="Welcome!"/></div>
@@ -42,5 +42,6 @@ I am passionate about learning and have a keen eye for detail. I am always eager
           <a href="https://github.com/rimanshupatel/WeatherApp-reactJs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=WeatherApp-reactJs&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 <!--END_SECTION:waka-->
+
 ---
 <h3 align="center">Show some ❤️ by giving ⭐ to some of my Repositories!!</h3>
