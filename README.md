@@ -13,9 +13,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/rimanshupatel/rimanshupatel/issues/new"><b>Here</b></a><br>
 or <a href="mailto:rimanshupatel1@gmail.com" target='_blank'><b>Email</b></a> me</p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 # 🏄‍♂️ Rimanshu patel
 
 **`Rimanshu patel(front end developer/react js/web developer)`**
@@ -53,7 +50,11 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 
 ## Top Respositorys
 
+<!--START_SECTION:waka-->
+
  <p align="left">
      <a href="https://github.com/rimanshupatel/javascript-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=javascript-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
        <a href="https://github.com/rimanshupatel/typescript-tutorials"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=typescript-tutorials&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
           <a href="https://github.com/rimanshupatel/WeatherApp-reactJs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=WeatherApp-reactJs&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+<!--END_SECTION:waka-->
