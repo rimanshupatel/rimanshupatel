@@ -36,11 +36,13 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 
 <!--START_SECTION:waka-->
 
- <p align="left">
-     <a href="https://github.com/rimanshupatel/javascript-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=javascript-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-       <a href="https://github.com/rimanshupatel/typescript-tutorials"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=typescript-tutorials&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-          <a href="https://github.com/rimanshupatel/WeatherApp-reactJs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=WeatherApp-reactJs&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
+```txt
+Markdown     23 mins         ██████████████████▓░░░░░░   75.22 %
+TypeScript   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+YAML         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
