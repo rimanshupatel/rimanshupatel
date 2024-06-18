@@ -37,10 +37,11 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     23 mins         ██████████████████▓░░░░░░   75.22 %
-TypeScript   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-YAML         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript   2 hrs 12 mins   ████████████████████▒░░░░   81.39 %
+Markdown     23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
