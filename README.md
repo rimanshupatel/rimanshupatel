@@ -34,17 +34,7 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 
 ## Top Respositorys
 
-<!--START_SECTION:waka-->
 
-```txt
-TypeScript   4 hrs 10 mins   ██████████████████████▒░░   88.82 %
-Markdown     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
 <h3 align="center">Show some ❤️ by giving ⭐ to some of my Repositories!!</h3>
