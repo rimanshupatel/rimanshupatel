@@ -49,7 +49,7 @@ Languages & Frameworks & Skills | Data
 </a> 
 
 <a href="https://github.com/rimanshupatel">      
-<img title="stats" alt="streak" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img title="stats" alt="streak" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a> 
 
 <p/>
