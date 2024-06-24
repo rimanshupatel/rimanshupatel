@@ -22,7 +22,7 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 
 ---
 
-## What I'm Doing
+## What I'm Doing 🦄
 
 - 🔭 Working on full stack project
 - 🌱 Learning Node.js, typeScript & more
@@ -40,16 +40,20 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 |**IDEs / Editors**|![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)  |
 
 
-## Activity On GitHub
+## 🔎 Github stats 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/rimanshupatel">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rimanshupatel&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
-</p>
 
+<a href="https://github.com/rimanshupatel">      
+<img title="stats" alt="streak" width=415 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</a> 
 
-## Top Respositorys
+<p/>
+  
+## 🚀 Top Respositorys 
   <p align="left">
      <a href="https://github.com/rimanshupatel/javascript-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=javascript-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/rimanshupatel/WeatherApp-reactJs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rimanshupatel&repo=WeatherApp-reactJs&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
