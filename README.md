@@ -44,11 +44,11 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 
 <p align="left">
   <a href="https://github.com/rimanshupatel">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rimanshupatel&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rimanshupatel&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 
 <a href="https://github.com/rimanshupatel">      
-<img title="stats" alt="streak" width=415 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img title="stats" alt="streak" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a> 
 
 <p/>
