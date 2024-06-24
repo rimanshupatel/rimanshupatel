@@ -27,7 +27,8 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 - 🔭 Working on full stack project
 - 🌱 Learning Node.js, typeScript & more
 - ⚡ Fun fact: reading new technology & stay updated.
-
+- 
+ **_`if you talk about tech, I'll gladly join you and yap with you for a whole day`_**
 ## 🧰 Languages and Tools
 
 Languages & Frameworks & Skills | Data
