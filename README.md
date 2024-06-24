@@ -22,12 +22,12 @@ I am passionate about learning and have a keen eye for detail. I am always eager
 
 ---
 
-## What I'm Doing 🦄
+## 🦄 What I'm Doing 
 
 - 🔭 Working on full stack project
-- 🌱 Learning Node.js, typeScript & more
+- 🌱 Learning backend & more
 - ⚡ Fun fact: reading new technology & stay updated.
-- 
+
  **_`if you talk about tech, I'll gladly join you and yap with you for a whole day`_**
 ## 🧰 Languages and Tools
 
@@ -49,7 +49,7 @@ Languages & Frameworks & Skills | Data
 </a> 
 
 <a href="https://github.com/rimanshupatel">      
-<img title="stats" alt="streak" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img title="stats" alt="streak" width=370 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a> 
 
 <p/>
