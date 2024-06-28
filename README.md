@@ -1,5 +1,7 @@
+
 <div align="center">
-<h2> Hello, I'm Rimanshu patel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'></h2>
+
+<h1>  Hello, I'm Rimanshu patel  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'></h1>
 </div>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+rimanshuPatel+Github+Profile" alt="Welcome!"/></div>
